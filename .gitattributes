@@ -15,3 +15,5 @@ tmp.txt filter=lfs diff=lfs merge=lfs -text
 __init__.py filter=lfs diff=lfs merge=lfs -text
 pred.txt filter=lfs diff=lfs merge=lfs -text
 data/* filter=lfs diff=lfs merge=lfs -text
+data/final_data filter=lfs diff=lfs merge=lfs -text
+data/raw_data filter=lfs diff=lfs merge=lfs -text
