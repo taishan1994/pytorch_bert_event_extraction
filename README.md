@@ -1,0 +1,2 @@
+# pytorch_bert_event_extraction
+基于pytorch+bert的中文事件抽取
