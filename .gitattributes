@@ -1,0 +1,16 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+bertBaseModel.py filter=lfs diff=lfs merge=lfs -text
+bertMrc.py filter=lfs diff=lfs merge=lfs -text
+config.py filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+preprocess.py filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+checkpoints filter=lfs diff=lfs merge=lfs -text
+logs filter=lfs diff=lfs merge=lfs -text
+main.sh filter=lfs diff=lfs merge=lfs -text
+utils filter=lfs diff=lfs merge=lfs -text
+dataset.py filter=lfs diff=lfs merge=lfs -text
+tmp.txt filter=lfs diff=lfs merge=lfs -text
+__init__.py filter=lfs diff=lfs merge=lfs -text
+pred.txt filter=lfs diff=lfs merge=lfs -text
